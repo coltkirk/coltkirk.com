@@ -1,0 +1,57 @@
+
+body {
+    background: #82d2dc;
+}
+
+
+html {
+  font-family: sans-serif;
+}
+
+
+
+#logo {
+  margin: 10px auto;
+  text-align: center;
+}
+
+#header h1 {
+    margin: 10px auto;
+    border: 30px solid #FFEB32;
+    border-radius: 8px;
+    background: #FFFFFF;
+    color: black;
+    width: 600px;
+    padding: 30px 10px;
+    text-align: center;
+}
+
+#contents {
+    margin: 10px auto;
+    border: 40px solid #FFEB32;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    color: black;
+    width: 600px;
+    padding: 20px 20px;
+}
+
+.title {
+    text-align: center;
+}
+
+.body {
+    text-align: right;
+}
+
+#doko {
+    border-top: 5px solid #FFEB32;
+}
+
+#boko {
+    border: 5px solid black;
+}
+
+.rbody {
+    text-align: left;
+}
